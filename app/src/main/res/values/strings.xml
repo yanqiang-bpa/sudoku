@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">sudoku</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sudoku_view">SudokuView</string>
+    <string name="action_easy">EASY</string>
+    <string name="action_medium">MEDIUM</string>
+    <string name="action_hard">HARD</string>
+</resources>
